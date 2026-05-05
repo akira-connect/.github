@@ -133,8 +133,6 @@ Different providers, different schemas, async jobs, retries, webhooks, billing s
 
 That is why I am building BabySea.
 
----
-
 ## Links
 
 BabySea: https://babysea.ai  
