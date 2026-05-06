@@ -59,7 +59,7 @@ Production-derived infrastructure patterns extracted from BabySea's execution co
 - 🏰 [`ledger-fortress`](https://github.com/babysea-ai/ledger-fortress)  
   Atomic credit settlement engine for async inference workloads. Built on Stripe and Supabase.
 
-- 🌉 [rosetta-bridge](https://github.com/babysea-ai/rosetta-bridge)
+- 🌉 [rosetta-bridge](https://github.com/babysea-ai/rosetta-bridge)  
   Request normalization engine for multi-provider inference workloads. Built with JSON Schema and TypeScript adapters.
 
 ### SDKs
@@ -128,13 +128,12 @@ https://github.com/babysea-ai/babysea-security-reports
 
 I started by building applications, then kept running into the same deeper problem:
 
-The hard part was not only calling models.
-
+The hard part was not only calling models.  
 The hard part was execution.
 
 Different providers, different schemas, async jobs, retries, webhooks, billing state, failed generations, storage, refunds, and observability all had to work together.
 
-That is why I am building BabySea.
+That is [why I am building BabySea](https://babysea.ai/about).
 
 ## Links
 
