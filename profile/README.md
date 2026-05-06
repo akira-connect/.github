@@ -54,24 +54,27 @@ BabySea OSS projects are organized into three categories.
 Production-derived infrastructure patterns extracted from BabySea's execution control plane. These isolate one hard system invariant at a time.
 
 - 🏝️ [`adaptive-island`](https://github.com/babysea-ai/adaptive-island)  
-  Cache-first provider selection for multi-vendor AI workloads. Built on Databricks, Upstash, and Supabase.
+  Cache-first provider selection engine for multi-provider inference workloads. Built on Databricks, Supabase, and Upstash.
 
 - 🏰 [`ledger-fortress`](https://github.com/babysea-ai/ledger-fortress)  
-  Atomic credit settlement for async AI workloads. Built on Stripe and Supabase.
+  Atomic credit settlement engine for async inference workloads. Built on Stripe and Supabase.
+
+- 🌉 [rosetta-bridge](https://github.com/babysea-ai/rosetta-bridge)
+  Request normalization engine for multi-provider inference workloads. Built with JSON Schema and TypeScript adapters.
 
 ### SDKs
 
 Typed developer entry points into BabySea's execution control plane.
 
 - 🌊 [`babysea`](https://github.com/babysea-ai/babysea)  
-  Open source TypeScript SDK for the BabySea execution control plane for generative media.
+  Production TypeScript SDK for the BabySea execution control plane for generative media. One API, one schema, one lifecycle across image and video inference providers.
 
 ### OSS Starters
 
 Deployable reference applications that help builders adopt BabySea patterns quickly.
 
 - 🐧 [`generative-media-starter`](https://github.com/babysea-ai/generative-media-starter)  
-  Launch a credit-based generative media app. Built with Next.js, Supabase, Stripe, Upstash, and the BabySea SDK.
+  Launch a credit-based generative media app. Built with Next.js, Stripe, Supabase, Upstash, and the BabySea SDK.
 
 ## Current focus
 
