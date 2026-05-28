@@ -10,7 +10,7 @@ Current projects include:
 
 | Project                                                                                   | Taxonomy  | Status     | Boundary                                                                                               |
 | :---------------------------------------------------------------------------------------- | :-------- | :--------- | :----------------------------------------------------------------------------------------------------- |
-| [BabySea SDK](https://www.npmjs.com/package/babysea)                                      | SDK       | Production | TypeScript SDK for the BabySea execution control plane for generative media.                           |
+| [BabySea SDK](https://github.com/babysea-community/babysea)                               | SDK       | Production | TypeScript SDK for the BabySea execution control plane for generative media.                           |
 | [Adaptive Island](https://github.com/babysea-community/adaptive-island)                   | Primitive | Production | Cache-first provider selection engine for multi-provider inference workloads.                          |
 | [Ledger Fortress](https://github.com/babysea-community/ledger-fortress)                   | Primitive | Production | Atomic credit settlement engine for async inference workloads.                                         |
 | [Rosetta Bridge](https://github.com/babysea-community/rosetta-bridge)                     | Primitive | Production | Request normalization engine for multi-provider inference workloads.                                   |
@@ -18,6 +18,6 @@ Current projects include:
 | [Generative Media Starter](https://github.com/babysea-community/generative-media-starter) | Starter   | Working    | Credit-based generative media app starter with auth, prepaid credits, and private storage.             |
 | [Sherin](https://github.com/babysea-community/sherin)                                     | Starter   | Working    | Self-hosted private workspace for generative media with own key, domain, and storage.                  |
 
-Most of my open-source work comes from real execution problems I’ve faced while building BabySea: provider fragmentation, schema drift, async generation state, credit settlement, private storage, webhook delivery, model routing, and production deployment.
+Most of my open-source work comes from real execution problems I've faced while building BabySea: provider fragmentation, schema drift, async generation state, credit settlement, private storage, webhook delivery, model routing, and production deployment.
 
 If you are building with generative media, these projects are for you.
