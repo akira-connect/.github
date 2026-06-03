@@ -14,7 +14,7 @@ Current projects include:
 | [Adaptive Island](https://github.com/babysea-community/adaptive-island)                   | Primitive | Production | Cache-first provider selection engine for multi-provider inference workloads.                          |
 | [Ledger Fortress](https://github.com/babysea-community/ledger-fortress)                   | Primitive | Production | Atomic credit settlement engine for async inference workloads.                                         |
 | [Rosetta Bridge](https://github.com/babysea-community/rosetta-bridge)                     | Primitive | Production | Request normalization engine for multi-provider inference workloads.                                   |
-| [BabyChain](https://github.com/babysea-community/babychain)                               | Starter   | Production | Model chain API engine for image and video workloads with one durable pipeline and one final callback. |
+| [BabyChain](https://github.com/babysea-community/babychain)                               | Starter   | Production | Self-hosted model chain API engine for image and video workflows with one durable pipeline and one final callback. |
 | [Generative Media Starter](https://github.com/babysea-community/generative-media-starter) | Starter   | Working    | Credit-based generative media app with auth, prepaid credits, and private storage.                     |
 | [Sherin](https://github.com/babysea-community/sherin)                                     | Starter   | Working    | Self-hosted private workspace for generative media with own key, domain, and storage.                  |
 
